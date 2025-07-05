@@ -33,3 +33,19 @@ Resumen ejecutivo con hallazgos principales
 Análisis comparativo entre las 4 tiendas
 Identificación de fortalezas y debilidades
 Recomendación final con justificación de venta.
+
+📁 Estructura del Proyecto
+
+proyecto/
+
+  AluraStoreLatam_F.ipynb          # Notebook principal con análisis
+  
+  base-de-datos-challenge1-latam/  # Carpeta con datos
+  
+     tienda_1_datos.csv
+     tienda_2_datos.csv
+     tienda_3_datos.csv
+     tienda_4_datos.csv
+     
+  README.md  
+  
